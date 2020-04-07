@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 300px;
+  padding: 60px 15px 0px 50px;
+  margin: 0 auto;
+}
+.top{
+	background-image:url(task/pp7.jpg);
+	background-size: cover;
+	padding: 100px 100px 100px 150px;
+	color:#000000;
+    opacity: 0.9;
+}
+.top h1{
+	opacity: 8;
+	font-size: 50px;
+	
+}
+.top p{
+	opacity: 5;
+	font-size: 30px;
+}
+.list {
+	padding:20px; 
+}
+.list p{
+font-size:30px
+}
+.list span{
+ color:#A52A2A;
+}
+.list h2{
+	font-size: 40px;
+	color: teal;
+}
+.contents{
+	background-color:#FFE9E9; 
+
+
+}
+.list span{
+	opacity: 4;
+}
